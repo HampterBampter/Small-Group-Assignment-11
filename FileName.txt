@@ -2,3 +2,5 @@ git push
 pushes changes to github
 git pull 
 pulling recent changes 
+git merge
+merging branches together
