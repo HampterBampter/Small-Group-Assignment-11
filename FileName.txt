@@ -1,2 +1,4 @@
 git push 
 pushes changes to github
+git pull 
+pulling recent changes 
