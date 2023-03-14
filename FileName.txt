@@ -4,3 +4,5 @@ git pull
 pulling recent changes 
 git merge
 merging branches together
+git rebase
+kind of like merge
